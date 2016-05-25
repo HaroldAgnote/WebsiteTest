@@ -1,0 +1,64 @@
+*
+{
+	background-color: silver;
+	font-family: Georgia, Times, erif;
+	padding-left: 60;
+}
+a:visited
+{
+	text-decoration: none;
+}
+a:hover
+{
+	color: blue;
+	text-decoration: underline;
+}
+p>a
+{
+	padding-left: 0;
+}
+
+img.align-center
+{
+	padding-left: 525;
+	display: block;
+	margin: 0 px auto;
+}
+#name
+{
+	text-align: center;
+} 
+
+#about
+{
+	padding-left: 80;
+}
+
+p>b
+{
+	padding-left: 0;
+}
+.hobInt
+{
+	padding-left: 100;
+}
+
+p[class=".hobInt"]
+{
+	padding-left: 140;
+}
+
+p.hobInt+ul
+{
+	padding-left: 160;
+}
+
+ul>li
+{
+	padding-left: 0;
+}
+
+th
+{
+	border-bottom: 2 px solid #111111;
+}
