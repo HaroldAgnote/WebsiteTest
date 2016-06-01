@@ -2,7 +2,8 @@
 {
 	background-color: silver;
 	font-family: Georgia, Times, erif;
-	padding-left: 60;
+	padding-left: 60px;
+	padding-right: 60px;
 }
 a:visited
 {
@@ -15,47 +16,43 @@ a:hover
 }
 p>a
 {
-	padding-left: 0;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
-img.align-center
-{
-	padding-left: 525;
-	display: block;
-	margin: 0 px auto;
-}
 #name
 {
 	text-align: center;
-} 
+}
 
 #about
 {
-	padding-left: 80;
+	padding-left: 80px;
 }
 
 p>b
 {
-	padding-left: 0;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 .hobInt
 {
-	padding-left: 100;
+	padding-left: 10px0px;
 }
 
 p[class=".hobInt"]
 {
-	padding-left: 140;
+	padding-left: 140px;
 }
 
 p.hobInt+ul
 {
-	padding-left: 160;
+	padding-left: 160px;
 }
 
 ul>li
 {
-	padding-left: 0;
+	padding-left: 0px;
 }
 
 th
