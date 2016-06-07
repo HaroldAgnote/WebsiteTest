@@ -30,14 +30,14 @@ p>a
 	padding-left: 80px;
 }
 
-p>b
+b
 {
 	padding-left: 0px;
 	padding-right: 0px;
 }
 .hobInt
 {
-	padding-left: 10px0px;
+	padding-left: 10px, 0px;
 }
 
 p[class=".hobInt"]
@@ -57,5 +57,15 @@ ul>li
 
 th
 {
-	border-bottom: 2 px solid #111111;
+	border-bottom: 2px solid #111111;
+}
+
+td
+{
+	border: 1px solid #000000;
+	padding: 3px;
+}
+table
+{
+	padding-left: 0px;
 }
